@@ -26,7 +26,7 @@ module.exports.add = function (req, res) {
     return res.redirect("/");
   });
 };
-
+ 
 // controller for deleting task
 module.exports.delete = function (req, res) {
   //getting the id of selected boxes
