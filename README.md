@@ -2,10 +2,15 @@
 A todo web application that helps you to add your tasks with some features.
 
 <b>#How to Use:</b>
+</b>
 1.Get NodeJs on your System.
+</b>
 2.Clone this repository .
+</b>
 3.Open in terminal/cmd
+</b>
 4.Do npm install
+</b>
 5.Go to Web Browser and enter https://localhost:3010
 
 <b>#Screenshots</b>
