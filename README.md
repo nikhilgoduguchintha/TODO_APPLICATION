@@ -1,17 +1,6 @@
 # TODO-App
-A todo web application that helps you to add your tasks with some features.
+This application developed using Express JS and MongoDB for the database, following the MVC architecture and utilizing the Bootstrap CSS framework. Implemented the SASS middleware for CSS pre-processing and created a user-friendly interface for task management. Users can add tasks with relevant details such as name, category, due date, and priority, and also delete completed tasks.”
 
-<b>#How to Use:</b>
-<br>
-1.Get NodeJs on your System.
-<br>
-2.Clone this repository .
-<br>
-3.Open in terminal/cmd
-<br>
-4.Do npm install
-<br>
-5.Go to Web Browser and enter https://localhost:3010
 
 <b>#Screenshots</b>
 ![Screenshot (15)](https://user-images.githubusercontent.com/50518011/198845642-e22b88d1-5793-410f-9bdf-6a06f70f2877.png)
@@ -19,7 +8,7 @@ A todo web application that helps you to add your tasks with some features.
 
 
  
-<b>#Made Using following : </b>
+<b>#Technologies used: </b>
 <br>
 Node Js
 <br>
